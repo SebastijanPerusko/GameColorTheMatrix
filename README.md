@@ -3,3 +3,5 @@ This is a project consisting of a game in which the entire array must be colored
 This game also included the ability to save the current game and load the last saved game. This meant that it included writing and reading files.
 
 ![slika](https://user-images.githubusercontent.com/83310988/187172842-78f4f5a3-2e29-4851-91b8-7e6e6e1612c9.png)
+
+![slika](https://user-images.githubusercontent.com/83310988/187172970-fb90aaaa-1c8b-4c11-8007-2c58c3c21ecd.png)
