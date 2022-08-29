@@ -1,4 +1,4 @@
-# GameColorTheMatrix
+# Game - Color The Matrix
 
 
 This is a project consisting of a game in which the entire matrix of colors must be colored by a specific color to win the game. In more detail, with your first click on the matrix you choose the color, with the second click on the matrix you color the section with the chosen color in the first step. Then the entire section of the same color will be colored with the first color. Once you have colored the entire matrix with the purple color you will win, and if you color in any other color you will lose. The matrix is generated randomly. The game also included the possibility to increase or decrease the size of the matrix and increase and decrease the number of colors used.
